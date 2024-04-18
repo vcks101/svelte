@@ -114,7 +114,7 @@
   }
 
   .col1 {
-    grid-column: 2;
+    grid-column: 1;
     grid-row: 1;
     margin: 5px;
     padding: 5px;
